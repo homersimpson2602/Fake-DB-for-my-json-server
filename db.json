@@ -20,27 +20,32 @@
     {
       "id": 2,
       "name": "Арчи",
-      "breed": "Английский бульдог"
+      "breed": "Английский бульдог",
+      "imgURL": "https://lh3.googleusercontent.com/proxy/WNfztsLxgbmK8bYwO2IsNv4b1DTSglHSgpRZYIPKH9miqX82OaoBCpUaqbTAOF28RAcYfBFER0Q3ffM"
     },
     {
       "id": 3,
       "name": "Бакстер",
-      "breed": "Пудель"
+      "breed": "Пудель",
+      "imgURL": "https://sobaky.info/wp-content/uploads/2018/04/8-5.jpg"
     },
      {
       "id": 4,
       "name": "Вуди",
-      "breed": "Лабрадор"
+      "breed": "Лабрадор",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Argos_with_duck.jpg"
     },
      {
       "id": 5,
       "name": "Гром",
-      "breed": "Бигль"
+      "breed": "Бигль",
+       "imgURL": "https://petsi.net/images/dogbreed/28.jpg"
     },
      {
       "id": 6,
       "name": "Жорик",
-      "breed": "Чихуахуа"
+      "breed": "Чихуахуа",
+       "imgURL": "https://img.aboutanimal.ru/images/2018/01/06/chihuahua-1515232817.jpg"
     }
   ],
   "profile": {
