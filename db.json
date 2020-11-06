@@ -15,13 +15,13 @@
       "id": 1,
       "name": "Бобик",
       "breed": "Немецкая овчарка",
-      "imgURL": "https://lh3.googleusercontent.com/proxy/6QfHPk387QZOK7XDWcFcUgTQh1UTT7sUBkCVzH_ec93sTx13G5foeZmEXf6jIRdtfk5SxBmqrVqHyzW5c--Dc3kfAA7z6FyeDkMb9QIjC4mX9Q"
+      "imgURL": "https://sobaky.info/wp-content/uploads/2017/12/no1.jpg"
     },
     {
       "id": 2,
       "name": "Арчи",
       "breed": "Английский бульдог",
-      "imgURL": "https://lh3.googleusercontent.com/proxy/WNfztsLxgbmK8bYwO2IsNv4b1DTSglHSgpRZYIPKH9miqX82OaoBCpUaqbTAOF28RAcYfBFER0Q3ffM"
+      "imgURL": "https://dogipediya.ru/wp-content/uploads/2018/12/Anglijskij-buldog.jpg"
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "id": 4,
       "name": "Вуди",
       "breed": "Лабрадор",
-      "imgURL": "https://lh3.googleusercontent.com/proxy/zt4WM1y5CIfwfMoK5ushJ3uEW9KZef79266xWyjmoP-eSsVhvCh0bnElLDR4ub3ac0X8CFpUek0KzmYq"
+      "imgURL": "https://zverushki.media/wp-content/uploads/2019/02/labrador-xarakteristika-porody-7.jpg"
     },
      {
       "id": 5,
@@ -48,6 +48,45 @@
        "imgURL": "https://img.aboutanimal.ru/images/2018/01/06/chihuahua-1515232817.jpg"
     }
   ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Смоки",
+      "breed": "Русская голубая",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jasmina.JPG"
+    },
+    {
+      "id": 2,
+      "name": "Оскар",
+      "breed": "Бенгальская",
+      "imgURL": "https://aneco.ru/wp-content/uploads/2019/11/bengalskaya-koshka-foto-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Манфред",
+      "breed": "Мейн-кун",
+      "imgURL": "https://lapkins.ru/upload/iblock/47b/47bb121df27d33a36d8e84091b83ee5c.jpg"
+    },
+     {
+      "id": 4,
+      "name": "Шайн",
+      "breed": "Сиамская ",
+      "imgURL": "https://opt-1031816.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/6f9/750_400_1/6f9f92f1c4f9d08a8bca5cd924f8eb79.jpg?1528243746124407"
+    },
+     {
+      "id": 5,
+      "name": "Флосси",
+      "breed": "Рэгдолл",
+       "imgURL": "https://dogcatfan.com/uploads/posts/2017-01/1484584271_ragdoll-cat.jpg"
+    },
+     {
+      "id": 6,
+      "name": "Шуша",
+      "breed": "Ориентальная",
+       "imgURL": "https://pro-kotikov.ru/wp-content/uploads/2018/08/cat-408789_960_720.jpg"
+    }
+  ],
+  
   "profile": {
     "name": "typicode"
   }
