@@ -70,7 +70,7 @@
      {
       "id": 4,
       "name": "Шайн",
-      "breed": "Сиамская ",
+      "breed": "Сиамская",
       "imgURL": "https://opt-1031816.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/6f9/750_400_1/6f9f92f1c4f9d08a8bca5cd924f8eb79.jpg?1528243746124407"
     },
      {
@@ -86,7 +86,82 @@
        "imgURL": "https://pro-kotikov.ru/wp-content/uploads/2018/08/cat-408789_960_720.jpg"
     }
   ],
-  
+  "birds": [
+    {
+      "id": 1,
+      "name": "Аркашка",
+      "breed": "Алмазный фазан",
+      "imgURL": "https://www.moscowzoo.ru/upload/iblock/aac/aac8ed9891ba2108ae6da9c0f82abc58.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Вилли",
+      "breed": "Соловей",
+      "imgURL": "https://drug66.ru/uploads/images/stati/2015/solovey3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Гермес",
+      "breed": "Полевой жаворонок",
+      "imgURL": "https://zooclub.ru/attach/2419.jpg"
+    },
+     {
+      "id": 4,
+      "name": "Джонни",
+      "breed": "Веерный попугай",
+      "imgURL": "https://i.pinimg.com/736x/84/94/95/84949534252a7aadfeab319e31dbd299.jpg"
+    },
+     {
+      "id": 5,
+      "name": "Жозефина",
+      "breed": "Силки",
+       "imgURL": "https://images3.wikia.nocookie.net/__cb20110120174752/chickens/images/thumb/0/08/Black_silkie.jpg/498px-Black_silkie.jpg"
+    },
+     {
+      "id": 6,
+      "name": "Оливер",
+      "breed": "Ара",
+       "imgURL": "https://cdn.pixabay.com/photo/2019/06/30/02/53/macaw-4307198_960_720.jpg"
+    }
+  ],
+  "fishes": [
+    {
+      "id": 1,
+      "name": "Давид",
+      "breed": "Золотая рыбка",
+      "imgURL": "https://blog.tetra.net/ru/ru/wp-content/uploads/2019/09/zolotaya-rybka.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Карамелька",
+      "breed": "Гуппи",
+      "imgURL": "https://blog.tetra.net/ru/ru/wp-content/uploads/2018/09/Guppi-vneshnij-vid.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Немо",
+      "breed": "Клоун оцеллярис",
+      "imgURL": "https://media.istockphoto.com/photos/amphiprion-ocellaris-clownfish-in-marine-aquarium-picture-id1059140910?k=6&m=1059140910&s=170667a&w=0&h=L9oau0RgQJbh94oAsNJLRxiECqgxuUIHE9Qq910ppJw="
+    },
+     {
+      "id": 4,
+      "name": "Тайсон",
+      "breed": "Моллинезия лира черная",
+      "imgURL": "https://akvariumnyerybki.ru/wp-content/uploads/2016/01/mollineziya-chernaya-lira-sfenops_1-650x385.jpg"
+    },
+     {
+      "id": 5,
+      "name": "Полковник",
+      "breed": "Петушок большеротый",
+       "imgURL": "https://i.pinimg.com/originals/3b/da/97/3bda973b5536f4f3236aed488f600475.jpg"
+    },
+     {
+      "id": 6,
+      "name": "Мамба",
+      "breed": "Бойцовая рыбка",
+       "imgURL": "https://www.aqvium.ru/images/fish-new/labyrinth/17.siamese-fighting-fish/17-3.siamese-fighting-fish.png"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
